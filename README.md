@@ -1,4 +1,4 @@
-# Medical Appointment No-Show Risk Prediction (Python, XGBoost, SHAP)
+# Medical Appointment No-Show Risk Prediction (XGBoost, SHAP)
 *High-Recall Machine Learning & Prescriptive Strategy for Clinical Operations*
 
 ## The Business Problem
